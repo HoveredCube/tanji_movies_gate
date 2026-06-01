@@ -1,1 +1,1 @@
-http://api.meowcompiles.site:8000
+https://endpoint.boratech.uk
